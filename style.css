@@ -3,3 +3,37 @@ body {
     color: white;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.navbar {
+    color: white;
+    margin: auto;
+    width: 50%;
+    border: 10px solid lime;
+    padding: 10px;
+    text-align: center;
+}
+
+.header {
+    margin: auto;
+    width: 50%;
+    border: 10px solid lime;
+    padding: 10px;
+    text-align: center;
+}
+
+.image {
+    float: right;
+}
+
+a {
+    color: rgb(50, 50, 250);
+    font-size: 20px
+}
+
+h1 {
+    font-size: 50px
+}
+
+p {
+    font-size: 24px
+}
